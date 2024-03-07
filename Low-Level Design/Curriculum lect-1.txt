@@ -1,0 +1,28 @@
+Low level design is a part of System Design.
+1. OOPS.
+	class & object, constructor & destructor.
+	Access Modifier, static & abstract.
+	Polymorphism, inheritance, abstraction and interface.
+
+2. SOLID Principle
+	S:- Single Responsibility Principle (SRP).
+	O:- Open/Close Principle (OCP).
+	L:- Liskov Substitution Principle (LSP).
+	I:- Interface Segregation Principle (ISP).
+	D:- Dependency Inversion Principle (DIP).
+
+3. UML digram (Unifield Modeling Language)
+
+4. Design Patten
+	There are approx 23 design patten, but we learn only top 6.
+	1> Singleton Patten.
+	2> Factory Method Patten.
+	3> Observed Patten.
+	4> Decorator Patten.
+	5> Strategy Patten.
+	6> Composite Patten.
+
+5. Problem Solving
+	1> Tic tac toe.
+	2> Parking Lot.
+	3> Book my show.
